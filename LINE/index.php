@@ -25,8 +25,8 @@ require_once('./Dice/Dice_test.php');
 
 //主要的全域變數，只有簡易的API，覺得難過香菇
 //試著手動加入了getProfile的功能…不知道是否用得到
-$channelAccessToken = getenv('LINE_CHANNEL_ACCESSTOKEN');
-$channelSecret = getenv('LINE_CHANNEL_SECRET');
+$channelAccessToken = getenv('htzpJLyLiNExpCCuusM6p79w/GTr2bRMI1B/T+2J4oegYBwu6A/M4TuBgSAymhDfxUUOGZyKg2WYzQKFAZW5movSNRq1hdXMBOxi26SSUlpC6amZCKqAoVWNVXNrssIZC0IsvZ9Gd43Qe0m1hh045QdB04t89/1O/w1cDnyilFU=');
+$channelSecret = getenv('372542c0bc529dbaa59b8d436a62d72e');
 $keyWord = getenv('KEY_WORD');
 $manualUrl = getenv('MANUAL_URL');
 $textReplyUrl = getenv('TEXT_REPLY_URL');
